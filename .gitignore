@@ -1,0 +1,3 @@
+.idea
+model_data/yolo_weights.pth
+__pycache__
